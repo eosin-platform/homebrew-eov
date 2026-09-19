@@ -1,4 +1,4 @@
-cask "eov" do
+cask "eov@0.4.7" do
     version "0.4.7"
 
     on_arm do
